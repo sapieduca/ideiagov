@@ -1,0 +1,9 @@
+{
+	"fechamento": "https://dados.educacao.sp.gov.br/dataset/fechamento",
+	"saresp": "https://dados.educacao.sp.gov.br/dataset/profici%C3%AAncia-do-sistema-de-avalia%C3%A7%C3%A3o-de-rendimento-escolar-do-estado-de-s%C3%A3o-paulo-saresp-2 https://dados.educacao.sp.gov.br/dataset/profici%C3%AAncia-do-sistema-de-avalia%C3%A7%C3%A3o-de-rendimento-escolar-do-estado-de-s%C3%A3o-paulo-saresp-por https://dados.educacao.sp.gov.br/dataset/profici%C3%AAncia-do-sistema-de-avalia%C3%A7%C3%A3o-de-rendimento-escolar-do-estado-de-s%C3%A3o-paulo-saresp-6 https://dados.educacao.sp.gov.br/dataset/profici%C3%AAncia-do-sistema-de-avalia%C3%A7%C3%A3o-de-rendimento-escolar-do-estado-de-s%C3%A3o-paulo-saresp-4 https://dados.educacao.sp.gov.br/dataset/microdados-de-alunos-do-sistema-de-avalia%C3%A7%C3%A3o-de-rendimento-escolar-do-estado-de-s%C3%A3o-paulo",
+	"associacao_professor_classe": "https://dados.educacao.sp.gov.br/dataset/associa%C3%A7%C3%A3o-do-professor-%C3%A0-classe",
+	"bfe": "https://dados.educacao.sp.gov.br/dataset/aus%C3%AAncias-por-servidor",
+	"sara": "https://dados.educacao.sp.gov.br/dataset/avalia%C3%A7%C3%B5es-sara",
+	"historico_participacoes": "https://dados.educacao.sp.gov.br/dataset/hist%C3%B3rico-de-participa%C3%A7%C3%B5es",
+	"idesp": "https://dados.educacao.sp.gov.br/dataset/%C3%ADndice-de-desenvolvimento-da-educa%C3%A7%C3%A3o-do-estado-de-s%C3%A3o-paulo-idesp-do-estado https://dados.educacao.sp.gov.br/dataset/%C3%ADndice-de-desenvolvimento-da-educa%C3%A7%C3%A3o-do-estado-de-s%C3%A3o-paulo-idesp-por-diretoria-de-ensino https://dados.educacao.sp.gov.br/dataset/%C3%ADndice-de-desenvolvimento-da-educa%C3%A7%C3%A3o-do-estado-de-s%C3%A3o-paulo-idesp-por-escola"
+}
