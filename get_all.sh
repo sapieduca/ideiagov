@@ -7,6 +7,8 @@ cmd_and_log () {
 	bash -c "$1"
 }
 
+rm -rf datasets/
+
 for DATASET in $DATASETS; do
 	echo "[`date -u`][get_all.sh] Dataset $DATASET started extraction!"
 	cmd_and_log "rm -rf datasets/$DATASET"
