@@ -12,7 +12,7 @@ for BASE_URI in $DATASETS_BASE_URIS; do
 		RESOURCE=`echo $URI | awk -F "/" '{print $NF}'`
 		echo "[`date -u`][get_dataset.sh][$DATASET_NAME] Downloading $RESOURCE..."
 		rm -f $RESOURCE
-		curl -silent $URI \
+		curl --silent $URI \
 			-H 'Connection: keep-alive' \
 			-H 'Upgrade-Insecure-Requests: 1' \
 			-H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36' \
