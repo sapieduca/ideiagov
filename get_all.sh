@@ -7,13 +7,17 @@ cmd_and_log () {
 	bash -c "$1"
 }
 
-rm -rf datasets/
+read -p "Do you want to proceed [y/n]? Start this script will remove 'datasets/' directory... " -n 1 -r
+echo    # (optional) move to a new line
+if [[ $REPLY =~ ^[Yy]$ ]]
+then
+	rm -rf datasets/
+	for DATASET in $DATASETS; do
+		echo "[`date -u`][get_all.sh] Dataset $DATASET started extraction!"
+		cmd_and_log "rm -rf datasets/$DATASET"
+		cmd_and_log "mkdir -p datasets/$DATASET"
 
-for DATASET in $DATASETS; do
-	echo "[`date -u`][get_all.sh] Dataset $DATASET started extraction!"
-	cmd_and_log "rm -rf datasets/$DATASET"
-	cmd_and_log "mkdir -p datasets/$DATASET"
-
-	DATASET_BASE_URIS=`cat metadata.json | jq ".$DATASET" | tr -d "\""`
-	bash get_dataset.sh $DATASET "$DATASET_BASE_URIS"
-done
+		DATASET_BASE_URIS=`cat metadata.json | jq ".$DATASET" | tr -d "\""`
+		bash get_dataset.sh $DATASET "$DATASET_BASE_URIS"
+	done
+fi
