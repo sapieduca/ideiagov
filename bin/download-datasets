@@ -1,6 +1,6 @@
 #!/bin/sh
 
-DATASETS=`cat metadata.json | jq 'keys[]' | tr -d "\"" | tr "\n" " "`
+DATASETS=`cat DATASETS.json | jq 'keys[]' | tr -d "\"" | tr "\n" " "`
 
 cmd_and_log () {
 	echo "[`date -u`][get_all.sh] $ $1"

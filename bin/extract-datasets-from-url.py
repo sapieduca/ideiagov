@@ -10,7 +10,7 @@ base_uri = args.base_uri
 res = requests.get(base_uri)
 res_text = res.text
 
-re_urls = re.finditer(r"https?://dados.educacao.sp.gov.br/sites/default/files/.*.(csv|xlsx)", res_text)
+re_urls = re.finditer(r"https?://.*.(csv|xlsx|ods)", res_text)
 urls = []
 for re_obj in re_urls:
     url = re_obj.group(0)

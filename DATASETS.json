@@ -6,11 +6,11 @@
 			"https://dados.educacao.sp.gov.br/sites/default/files/ASSOCIACAO_PROFESSORES_2020.csv",
 			"https://dados.educacao.sp.gov.br/sites/default/files/ASSOCIACAO_PROFESSORES_2019.csv"
 		]
-	}
+	},
 	"BASE_AUSENCIAS": {
 		"colunas": [],
 		"datasets": [
-			"https://dados.educacao.sp.gov.br/sites/default/files/%5Bdbo%5D.%5BBASE_AUSENCIAS_1022%5D.csv"
+			"https://dados.educacao.sp.gov.br/sites/default/files/%5Bdbo%5D.%5BBASE_AUSENCIAS_1022%5D.csv",
 			"https://dados.educacao.sp.gov.br/sites/default/files/%5Bdbo%5D.%5BBASE_AUSENCIAS_0922%5D.csv",
 			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0722.csv",
 			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0522.csv",
@@ -140,5 +140,5 @@
 			"https://dados.educacao.sp.gov.br/sites/default/files/Avalia%C3%A7%C3%A3o%20Diagn%C3%B3stica%20de%20Entrada_2019.csv",
 			"https://dados.educacao.sp.gov.br/sites/default/files/Avalia%C3%A7%C3%A3o%20Diagn%C3%B3stica%20de%20Entrada_2020.csv"
 		]
-	},
+	}
 }

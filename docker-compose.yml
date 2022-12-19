@@ -1,6 +1,6 @@
 version: "3.9"
 services:
-  notebook:
+  jupyter-notebook:
     build: .
     ports:
       - "8888:8888"
@@ -8,3 +8,22 @@ services:
       - ./jupyter/:/home/jovyan/work/
       - ./datasets/:/home/jovyan/datasets/
     restart: always
+
+  upload-datasets-s3:
+    build: .
+    environment:
+      - AWS_ACCESS_KEY_ID=${S3_AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${S3_AWS_SECRET_ACCESS_KEY}
+      - AWS_REGION=${S3_AWS_REGION:-us-east-1}
+      - AWS_BUCKET=${S3_AWS_BUCKET:-ideiagov-datasets}
+    volumes:
+      - ./:/tmp/localhost/
+    restart: always
+    command: "sh /tmp/localhost/bin/upload-datasets-s3"
+  
+  download-datasets:
+    build: .
+    volumes:
+      - ./:/tmp/localhost/
+    restart: always
+    command: "sh /tmp/localhost/bin/download-datasets"

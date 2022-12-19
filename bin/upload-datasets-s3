@@ -1,0 +1,4 @@
+#!/bin/sh
+
+
+aws s3 sync $DATASETS_FOLDER $S3_BUCKET
