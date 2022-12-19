@@ -1,108 +1,144 @@
 {
-	"ASSOCIACAO_PROFESSORES": [
-		"https://dados.educacao.sp.gov.br/sites/default/files/ASSOCIACAO_PROFESSORES_2021.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/ASSOCIACAO_PROFESSORES_2020.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/ASSOCIACAO_PROFESSORES_2019.csv"
-	],
-	"BASE_AUSENCIAS": [
-		"https://dados.educacao.sp.gov.br/sites/default/files/%5Bdbo%5D.%5BBASE_AUSENCIAS_1022%5D.csv"
-		"https://dados.educacao.sp.gov.br/sites/default/files/%5Bdbo%5D.%5BBASE_AUSENCIAS_0922%5D.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0722.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0522.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0422.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0322.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0222.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0122.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1221.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1121.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1021.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0921.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0821.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0721.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0621.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0521.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0421.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0321.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0221.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0121.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1220.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1120.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1020.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0920.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0820.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0720.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0620.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0520.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0420.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0320.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0220.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0120.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1219.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1119.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1019.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0919.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0819.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0719.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0619.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0519.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0419.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0319.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0219.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0119.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1218.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0519.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0519.csv"
-	],
-	"FECHAMENTO": [
-		"https://dados.educacao.sp.gov.br/sites/default/files/Fechamento_2021_2.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/Fechamento_2020_2.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/Fechamento_2019_2.csv"
-	],
-	"HIST_PARTICIPACOES": [
-		"https://dados.educacao.sp.gov.br/sites/default/files/HISTORICO_PARTICIPACOES_2021.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/HISTORICO_PARTICIPACOES_2020.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/HISTORICO_PARTICIPACOES_2019.csv"
-	],
-	"SARESP": [
-		"https://dados.educacao.sp.gov.br/sites/default/files/Profici%C3%AAncia_SARESP_2021_por_escola.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2019.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2018.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2017.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2016.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2015.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2014.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2013_0.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2012.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2011.csv"
-	],
-	"IDESP": [
-		"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_ESCOLA_2021.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_ESCOLA_2019.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/IDESP%20por%20Escola%20-%202018.csv"
-	],
-	"IDESP_SERIE_HISTORICA": [
-		"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_Escolas_2007_2019_EM.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_Escolas_2007_2019_AF.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_Escolas_2007_2019_AI.csv"
-	],
-	"RUBRICAS_SOCIOEMOCIONAIS": [],
-	"CAD_FORMACAO": [],
-	"CMSP": [
-		"https://seepdatalake.blob.core.windows.net/datalake/tmp/dados-abertos/IDEIAGOV/TB_CMSP_2021_IDEIAGOV_03.csv?sv=2021-04-10&st=2022-10-25T20%3A11%3A54Z&se=2040-12-26T20%3A11%3A00Z&sr=b&sp=r&sig=EJlQ3xOslqfl93q%2FyfD%2BJxlxJBa9lwqltqzJWGToEmU%3D",
-		"https://seepdatalake.blob.core.windows.net/datalake/tmp/dados-abertos/IDEIAGOV/TB_CMSP_2021_IDEIAGOV_02.csv?sv=2021-04-10&st=2022-10-25T20%3A04%3A00Z&se=2040-12-31T20%3A04%3A00Z&sr=b&sp=r&sig=TUX%2Fq2ywHWlFozYgC0HOPoEmaFOmlJgnfoc8VWgJ6MU%3D",
-		"https://seepdatalake.blob.core.windows.net/datalake/tmp/dados-abertos/IDEIAGOV/TB_CMSP_2021_IDEIAGOV_01.csv?sv=2021-04-10&st=2022-10-25T20%3A07%3A44Z&se=2040-12-31T20%3A07%3A00Z&sr=b&sp=r&sig=Fj79kI%2FW6DB%2FjpqTZCZic728dDKpw5UOAiJyAgDW6ng%3D",
-		"https://seepdatalake.blob.core.windows.net/datalake/tmp/dados-abertos/IDEIAGOV/TB_CMSP_2020_IDEIAGOV.csv?sv=2021-04-10&st=2022-10-25T21%3A42%3A34Z&se=2040-12-31T21%3A42%3A00Z&sr=b&sp=r&sig=4xIOyu8xBgX%2FjId5dbHGr3brepTzu2nU79yRGilaC0A%3D"
-	],
-	"MAPA_CLASSE": [],
-	"SARA": [
-		"https://dados.educacao.sp.gov.br/sites/default/files/AAP3_2021.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/AAP2_2021.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/AAP1_2021.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/AAP_2020_BIM_2.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/AAP_2020_BIM_1.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/AAP_2019_BIM_3.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/AAP_2019_BIM_2.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/Avalia%C3%A7%C3%A3o%20Diagn%C3%B3stica%20de%20Entrada_2019.csv",
-		"https://dados.educacao.sp.gov.br/sites/default/files/Avalia%C3%A7%C3%A3o%20Diagn%C3%B3stica%20de%20Entrada_2020.csv"
-	]
+	"ASSOCIACAO_PROFESSORES": {
+		"colunas": [],
+		"datasets": [
+			"https://dados.educacao.sp.gov.br/sites/default/files/ASSOCIACAO_PROFESSORES_2021.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/ASSOCIACAO_PROFESSORES_2020.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/ASSOCIACAO_PROFESSORES_2019.csv"
+		]
+	}
+	"BASE_AUSENCIAS": {
+		"colunas": [],
+		"datasets": [
+			"https://dados.educacao.sp.gov.br/sites/default/files/%5Bdbo%5D.%5BBASE_AUSENCIAS_1022%5D.csv"
+			"https://dados.educacao.sp.gov.br/sites/default/files/%5Bdbo%5D.%5BBASE_AUSENCIAS_0922%5D.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0722.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0522.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0422.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0322.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0222.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0122.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1221.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1121.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1021.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0921.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0821.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0721.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0621.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0521.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0421.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0321.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0221.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0121.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1220.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1120.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1020.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0920.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0820.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0720.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0620.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0520.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0420.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0320.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0220.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0120.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1219.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1119.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1019.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0919.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0819.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0719.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0619.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0519.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0419.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0319.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0219.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0119.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_1218.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0519.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/BASE_AUSENCIAS_0519.csv"
+		]
+	},
+	"FECHAMENTO": {
+		"colunas": [],
+		"datasets": [
+			"https://dados.educacao.sp.gov.br/sites/default/files/Fechamento_2021_2.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/Fechamento_2020_2.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/Fechamento_2019_2.csv"
+		]
+	},
+	"HIST_PARTICIPACOES": {
+		"colunas": [],
+		"datasets": [
+			"https://dados.educacao.sp.gov.br/sites/default/files/HISTORICO_PARTICIPACOES_2021.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/HISTORICO_PARTICIPACOES_2020.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/HISTORICO_PARTICIPACOES_2019.csv"
+		]
+	},
+	"SARESP": {
+		"colunas": [],
+		"datasets": [
+			"https://dados.educacao.sp.gov.br/sites/default/files/Profici%C3%AAncia_SARESP_2021_por_escola.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2019.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2018.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2017.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2016.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2015.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2014.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2013_0.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2012.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/SARESP_escolas_2011.csv"
+		]
+	},
+	"IDESP": {
+		"colunas": [],
+		"datasets": [
+			"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_ESCOLA_2021.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_ESCOLA_2019.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/IDESP%20por%20Escola%20-%202018.csv"
+		]
+	},
+	"IDESP_SERIE_HISTORICA": {
+		"colunas": [],
+		"datasets": [
+			"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_Escolas_2007_2019_EM.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_Escolas_2007_2019_AF.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/IDESP_Escolas_2007_2019_AI.csv"
+		]
+	},
+	"RUBRICAS_SOCIOEMOCIONAIS": {
+		"colunas": [],
+		"datasets": []
+	},
+	"CAD_FORMACAO": {
+		"colunas": [],
+		"datasets": []
+	},
+	"CMSP": {
+		"colunas": [],
+		"datasets": [
+			"https://seepdatalake.blob.core.windows.net/datalake/tmp/dados-abertos/IDEIAGOV/TB_CMSP_2021_IDEIAGOV_03.csv?sv=2021-04-10&st=2022-10-25T20%3A11%3A54Z&se=2040-12-26T20%3A11%3A00Z&sr=b&sp=r&sig=EJlQ3xOslqfl93q%2FyfD%2BJxlxJBa9lwqltqzJWGToEmU%3D",
+			"https://seepdatalake.blob.core.windows.net/datalake/tmp/dados-abertos/IDEIAGOV/TB_CMSP_2021_IDEIAGOV_02.csv?sv=2021-04-10&st=2022-10-25T20%3A04%3A00Z&se=2040-12-31T20%3A04%3A00Z&sr=b&sp=r&sig=TUX%2Fq2ywHWlFozYgC0HOPoEmaFOmlJgnfoc8VWgJ6MU%3D",
+			"https://seepdatalake.blob.core.windows.net/datalake/tmp/dados-abertos/IDEIAGOV/TB_CMSP_2021_IDEIAGOV_01.csv?sv=2021-04-10&st=2022-10-25T20%3A07%3A44Z&se=2040-12-31T20%3A07%3A00Z&sr=b&sp=r&sig=Fj79kI%2FW6DB%2FjpqTZCZic728dDKpw5UOAiJyAgDW6ng%3D",
+			"https://seepdatalake.blob.core.windows.net/datalake/tmp/dados-abertos/IDEIAGOV/TB_CMSP_2020_IDEIAGOV.csv?sv=2021-04-10&st=2022-10-25T21%3A42%3A34Z&se=2040-12-31T21%3A42%3A00Z&sr=b&sp=r&sig=4xIOyu8xBgX%2FjId5dbHGr3brepTzu2nU79yRGilaC0A%3D"
+		]
+	},
+	"MAPA_CLASSE": {
+		"colunas": [],
+		"datasets": []
+	},
+	"SARA": {
+		"colunas": [],
+		"datasets": [
+			"https://dados.educacao.sp.gov.br/sites/default/files/AAP3_2021.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/AAP2_2021.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/AAP1_2021.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/AAP_2020_BIM_2.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/AAP_2020_BIM_1.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/AAP_2019_BIM_3.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/AAP_2019_BIM_2.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/Avalia%C3%A7%C3%A3o%20Diagn%C3%B3stica%20de%20Entrada_2019.csv",
+			"https://dados.educacao.sp.gov.br/sites/default/files/Avalia%C3%A7%C3%A3o%20Diagn%C3%B3stica%20de%20Entrada_2020.csv"
+		]
+	},
 }
